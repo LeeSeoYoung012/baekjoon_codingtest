@@ -1,0 +1,5 @@
+﻿  move.cpp
+c:\users\leeseoyoung\documents\visual studio 2017\projects\baekjoon_codingtest\baekjoon_codingtest\move.cpp(9): warning C4101: 'check' :참조되지 않은 지역 변수입니다.
+c:\users\leeseoyoung\documents\visual studio 2017\projects\baekjoon_codingtest\baekjoon_codingtest\move.cpp(8): warning C4101: 'candymap' :참조되지 않은 지역 변수입니다.
+  baekjoon_codingtest.vcxproj -> C:\Users\LeeSeoYoung\documents\visual studio 2017\Projects\baekjoon_codingtest\x64\Debug\baekjoon_codingtest.exe
+  baekjoon_codingtest.vcxproj -> C:\Users\LeeSeoYoung\documents\visual studio 2017\Projects\baekjoon_codingtest\x64\Debug\baekjoon_codingtest.pdb (Partial PDB)
